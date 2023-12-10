@@ -5,7 +5,7 @@ import time
 import random
 
 # Connection Data
-host = '192.168.1.118' ## ip server 
+host = '127.0.0.1' ## ip server 
 port = 55555 # port srever
 
 # Starting Server
